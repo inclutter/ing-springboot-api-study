@@ -1,2 +1,5 @@
 # ing-springboot-api-study
-api study with spring boot
+
+### 1. 첫번째 커밋
+
+프로젝트 초기화 진행
